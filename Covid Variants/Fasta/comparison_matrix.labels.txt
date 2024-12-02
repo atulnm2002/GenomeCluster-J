@@ -1,6 +1,0 @@
-Beta.fasta
-Delta.fasta
-Epsilon.fasta
-Gamma.fasta
-Lambda.fasta
-Omicron.fasta
