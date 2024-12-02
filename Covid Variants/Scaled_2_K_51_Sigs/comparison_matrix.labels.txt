@@ -1,0 +1,9 @@
+Beta.fasta
+Delta.fasta
+Epsilon.fasta
+Sars_cov_2.ASM985889v3.cdna.all (1).fa
+Fourth_ASM985889v3.dna_sm.toplevel.fa
+Gamma.fasta
+Lambda.fasta
+Omicron.fasta
+Sars_cov_2.ASM985889v3.dna.toplevel.fa
